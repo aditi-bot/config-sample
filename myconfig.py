@@ -10,6 +10,7 @@ def linkFilter(poi):
 outputdir = "C:/Users/u/Desktop/map"
 worlds["nit"] = "C:/Users/u/Desktop/world"
 
+#nitdgpverse
 
 renders["day1"] = {
     "world": "nit",

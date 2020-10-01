@@ -1,0 +1,22 @@
+<tectonicus version="2">
+
+	<config
+		outputDir="C:\Users\u\Desktop\tmap2"
+		numZoomLevels="8"
+	/>
+
+	<map
+		name="My World Map"
+		worldDir="C:\Users\u\Desktop\world"
+		dimension="terra"
+		closestZoomSize="12"
+	>
+		<layer
+			name="Day"
+			lighting="day"
+			renderStyle="normal"
+			cameraElevation="11 / 10 - 90"
+		/>
+	</map>
+
+</tectonicus>
